@@ -37,8 +37,8 @@ Here’s a diagram that represents the architecture of the chatbot:
 
 1. Clone the repository:
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/mundesamarth/langstream.git
+    cd langstream
     ```
 
 2. Install the required Python packages:
