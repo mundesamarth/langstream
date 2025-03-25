@@ -53,7 +53,8 @@ Here’s a diagram that represents the architecture of the chatbot:
 
 4. Create a `.env` file to store your API key:
     ```
-    OPENAI_API_KEY=your-api-key-here
+    LANGCHAIN_API_KEY=your-api-key-here
+    BASE_URL = https://openrouter.ai/api/v1
     ```
 
 5. Run the app:
