@@ -59,7 +59,7 @@ Here’s a diagram that represents the architecture of the chatbot:
 
 5. Run the app:
     ```bash
-    streamlit run app.py
+    streamlit run ./main.py   
     ```
 
 6. Use Localtunnel to expose the app to the web (optional):
